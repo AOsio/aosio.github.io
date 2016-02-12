@@ -17,5 +17,7 @@ h1{
 
 p{
 	font-size: 200%;
+	font-weight:200;
 	color: blue; 
+	text-align: center;
 }
